@@ -1,0 +1,11 @@
+{
+    "name": "LALI Coin",
+    "symbol": "LALI",
+    "type": "ERC20",
+    "decimals": 0,
+    "description": "LALI Coin - A token with a real story behind it.",
+    "website": "https://lalicoin.carrd.co",
+    "explorer": "https://basescan.org/token/0xc4905c47A264ea05373d3eBaDCc5e5470aa84304",
+    "status": "active",
+    "id": "0xc4905c47A264ea05373d3eBaDCc5e5470aa84304"
+}
