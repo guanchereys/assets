@@ -7,5 +7,20 @@
     "website": "https://lalicoin.carrd.co",
     "explorer": "https://basescan.org/token/0xc4905c47A264ea05373d3eBaDCc5e5470aa84304",
     "status": "active",
-    "id": "0xc4905c47A264ea05373d3eBaDCc5e5470aa84304"
+    "id": "0xc4905c47A264ea05373d3eBaDCc5e5470aa84304" ,
+    "links": [
+    {
+      "name": "website",
+      "url": "https://lalicoin.carrd.co"
+    },
+    {
+      "name": "twitter",
+      "url": "https://github.com/guanchereys"
+    },
+    {
+      "name": "twitter",
+      "url": "https://instagram.com/lalicoin"
+    },
+  ],
+    "tags": ["meme", "community"]
 }
